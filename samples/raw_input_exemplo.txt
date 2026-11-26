@@ -1,0 +1,9 @@
+Item 1 - AUDITORIA INTERNA BPM - 2024
+Na notação BPMN 2.0, um gateway exclusivo (XOR) direciona o fluxo de sequência para apenas um dos caminhos alternativos disponíveis com base na avaliação de condições mutuamente excludentes.
+Gabarito: CERTO
+Comentário: O gateway exclusivo avalia as condições em ordem e ativa exclusivamente o primeiro fluxo cuja condição seja verdadeira.
+
+Item 2 - GOVERNANÇA DE DADOS - 2024
+A anonimização de dados pessoais sob a LGPD exige que a reversão do processo seja tecnicamente impossível mesmo pelo próprio controlador que aplicou a técnica.
+Gabarito: CERTO
+Comentário: Conforme o art. 5º, XI da Lei nº 13.709/2018, dado anonimizado é aquele relativo a titular que não possa ser identificado, considerando a utilização de meios técnicos razoáveis e disponíveis na ocasião de seu tratamento.

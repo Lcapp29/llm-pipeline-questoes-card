@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.vscode/
+.env
+data/
+historico_brutas/
+raw_input.txt
+questoes_brutas.txt
+edital.md
+codigos_old/
